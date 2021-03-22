@@ -1,0 +1,8 @@
+Install this: https://www.python.org/downloads/
+Type this on powershell:
+pip install discord.py
+pip install colorama
+pip install requests
+pip install pyPrivnote
+pip install win10toast
+To execute this open powershell and type: py discordnitrosniper.py

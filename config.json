@@ -1,0 +1,13 @@
+{
+    "token": "YOUR DISCORD TOKEN",
+    "on-alt": false,
+    "reedem-token": "YOUR DISCORD TOKEN",
+    "notification": true,
+
+    "delay-enabled": false,
+    "delay": 5,
+
+    "nitro_sniper": true,
+    "giveaway_sniper": true,
+    "privnote_sniper": true
+}
